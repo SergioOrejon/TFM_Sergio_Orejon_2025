@@ -1,0 +1,4 @@
+shodan
+cmd2
+python-nmap
+keyring
